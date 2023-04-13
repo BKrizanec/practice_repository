@@ -1,0 +1,31 @@
+﻿
+<h1 style="font-family:'Lucida Handwriting'">Ja sam naslov za popis knjiga u fontu koji baš nije web safe</h1>
+
+<table class="table" style="background-color:cornsilk">
+    <thead style="font-style:normal">
+        <tr>
+            <th>Naziv</th>
+            <th>Ime autora</th>
+            <th>Godine autora</th>
+            <th>Država autora</th>
+            <th>Godina izdanja</th>
+            <th>Žanr</th>
+        </tr>
+    </thead>
+    <tbody style="font-style:oblique">
+@foreach (Book book in ViewData["books"] as IEnumerable<Book>)
+    {
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.Author.NameSurname</td>
+            <td>@book.Author.Age</td>
+            <td>@book.Author.Country</td>
+            <td>@book.YearOfRelease</td>
+            <td>@book.Genre</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<br />
+<a asp-controller="Home" asp-action="Index">Dodatni povratak na početnu stranicu</a>
