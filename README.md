@@ -9,5 +9,5 @@ A couple of small disclaimers:
 - The projects that I've included haven't been changed since I created them as I've wanted to keep them that way to observe the progess I've made over the course
 
 ## Table of contents:
-1. [A simple console](https://github.com/BKrizanec/practice_repository/tree/main/Simple%20Input%20Console%20App) app that was created to go through both all of the basics of C# and OOP 
-2. Another simple console app where you can input and validate a phone number and an email address. The goal of the app was to go through some of the more advanced features of C#
+1. [A simple console app](https://github.com/BKrizanec/practice_repository/tree/main/Simple%20Input%20Console%20App) that was created to go through both all of the basics of C# and OOP 
+2. [Another simple console app](https://github.com/BKrizanec/practice_repository/tree/main/Advanced%20Input%20Console%20App) where you can input and validate a phone number and an email address. The goal of the app was to go through some of the more advanced features of C#
