@@ -11,4 +11,4 @@ A couple of small disclaimers:
 ## Table of contents:
 1. [A simple console app](https://github.com/BKrizanec/practice_repository/tree/main/Simple%20Input%20Console%20App) that was created to go through both all of the basics of C# and OOP 
 2. [Another simple console app](https://github.com/BKrizanec/practice_repository/tree/main/Another%20Simple%20Console%20App) where you can input and validate a phone number and an email address. The goal of the app was to go through some of the more advanced features of C#
-
+3. [A basic MVC ASP.NET framework app](https://github.com/BKrizanec/practice_repository/tree/main/Basic%20ASP.NET%20MVC) created for the purpose of practicing manipulating data within the MVC architecture
