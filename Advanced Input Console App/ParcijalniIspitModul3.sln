@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispit.Konzola", "Ispit.Konzola\Ispit.Konzola.csproj", "{A7CC5BB9-ED92-480B-96FC-9C69ABFA846B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CC5BB9-ED92-480B-96FC-9C69ABFA846B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CC5BB9-ED92-480B-96FC-9C69ABFA846B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CC5BB9-ED92-480B-96FC-9C69ABFA846B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CC5BB9-ED92-480B-96FC-9C69ABFA846B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CAA1D65-3806-4AB1-ACA1-226AB32AE9DF}
+	EndGlobalSection
+EndGlobal
