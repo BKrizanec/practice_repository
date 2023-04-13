@@ -6,7 +6,7 @@ Firstly, I've included exercises covering some basic and advanced C# principles 
 
 A couple of small disclaimers: 
 - All of the projects are made using .NET 6, as the newer version of .NET 7 was just coming out as we were starting the course.
-- The projects that I've included haven't been changed since I've completed the tasks that were required of me. This was by design, as I've wanted to keep them that way, to observe the progess I've made over the duration of the course 
+- The projects that I've included haven't been changed since I've completed the tasks that were required of me. This was by design, as I've wanted to keep them that way, to observe the progress I've made over the duration of the course 
 
 ## Table of contents:
 1. [A simple console app](https://github.com/BKrizanec/practice_repository/tree/main/Simple%20Input%20Console%20App) that was created to go through both all of the basics of C# and OOP 
